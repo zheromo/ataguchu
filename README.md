@@ -1,2 +1,2 @@
 # ataguchu
-Python AWSGI microframework with component architecture
+Python ASGI microframework with component architecture
